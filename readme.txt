@@ -4,6 +4,7 @@ Codecademy projects from LEARN JAVASCRIPT
  Dog Years
  Magic 8 Ball
  Race Day
+ Rock, Paper, Scissors
 
 
 
