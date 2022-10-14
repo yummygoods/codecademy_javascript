@@ -4,8 +4,10 @@ Codecademy projects from LEARN JAVASCRIPT
 ✅ Dog Years
 ✅ Magic 8 Ball
 ✅ Race Day
- Rock, Paper, Scissors
- Training Day 
+✅ Rock, Paper, Scissors
+   Sleep Debt Calculator
+   Training Day 
+   Secret Message
 
 
 
