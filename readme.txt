@@ -5,7 +5,7 @@ Codecademy projects from LEARN JAVASCRIPT
 ✅ Magic 8 Ball
 ✅ Race Day
 ✅ Rock, Paper, Scissors
-   Sleep Debt Calculator
+✅ Sleep Debt Calculator
    Training Day 
    Secret Message
 
